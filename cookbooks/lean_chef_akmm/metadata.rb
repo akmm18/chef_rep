@@ -1,0 +1,7 @@
+name 'lean_chef_akmm'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures lean_chef_akmm'
+long_description 'Installs/Configures lean_chef_akmm'
+version '0.1.0'
